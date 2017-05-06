@@ -45,5 +45,5 @@ public class BootstrapUI extends UI {
 
 In the future the library may be extended to support more bootstrap features and components through `AbstractJavaScriptComponent`. PR's are welcome. 
 
-#Nota:
+## Nota:
 La versión 0.2.2 contempla los cambios necesarios para que la version 0.2.1 funcione con java 1.7 y vaadin 0.2.2
