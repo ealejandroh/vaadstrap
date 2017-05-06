@@ -9,7 +9,7 @@ The library is ready to be used by any Vaadin project and requires no widgetset 
 <dependency>
    <groupId>com.sebworks</groupId>
    <artifactId>vaadstrap</artifactId>
-   <version>0.2.1</version>
+   <version>0.2.2</version>
 </dependency>
 
 <repository>
@@ -44,3 +44,6 @@ public class BootstrapUI extends UI {
 `col-*-*`, `col-*-offset-*`, `visible-*`, `hidden-*` styles are available as enum constants.
 
 In the future the library may be extended to support more bootstrap features and components through `AbstractJavaScriptComponent`. PR's are welcome. 
+
+##Nota:
+La versión 0.2.2 contempla los cambios necesarios para que la version 0.2.1 funcione con java 1.7 y vaadin 0.2.2
